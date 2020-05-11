@@ -1,0 +1,19 @@
+{
+  "name": "siqueira-mailer-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mefistofeles66/siqueira-mailer-backend.git"
+  },
+  "author": "Gabriel Costa Siqueira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mefistofeles66/siqueira-mailer-backend/issues"
+  },
+  "homepage": "https://github.com/mefistofeles66/siqueira-mailer-backend#readme"
+}
